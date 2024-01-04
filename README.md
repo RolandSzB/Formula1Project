@@ -1,3 +1,7 @@
+2023-2024 OOP Semester Project
+CRUD  functionalities implemented with 3 entities, using SpringMVC. 
+
+
 ![image](https://github.com/RolandSzB/Formula1Project/assets/125957801/3e4c03ee-a9ed-4f79-b1df-cb623c7eea14)
 ![image](https://github.com/RolandSzB/Formula1Project/assets/125957801/ac20c32e-803a-44a0-ab9c-eb6597a87a58)
 ![image](https://github.com/RolandSzB/Formula1Project/assets/125957801/b45f2302-5890-400a-aa4e-ff4551fa71e0)
