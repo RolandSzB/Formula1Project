@@ -1,4 +1,5 @@
-2023-2024 OOP Semester Project
+2023-2024 OOP Semester Project.
+
 CRUD  functionalities implemented with 3 entities, using SpringMVC. 
 
 
